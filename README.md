@@ -66,7 +66,7 @@
 </h1>
 </details> 
 
-	Note:- Fill https://github.com/ALTRON-XD/KRISTY/blob/main/KRISTY/confing.py Before Use
+	Note:- Fill https://github.com/oliviasongdaanav/KRISTY/blob/main/KRISTY/confing.py Before Use
 	
 <details>
 	<summary> ᴠᴘꜱ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
